@@ -1,0 +1,24 @@
+HELP:
+
+As an argument to the program, you can specify a direct link to the file
+or examples stored in the "examples" folder.
+
+
+--help
+  -h
+    This flag shows possible flags and instructions for use by the program.
+--clear
+  -c
+    This flag makes it possible not to show the source file.
+--report
+  -r
+    This flag allows you to see the logic of the algorithm.
+--total
+  -t
+    This flag shows at the end of the program execution shows information
+    about the number of paths found and the number of steps required to go
+    through them.
+--about
+  -a
+    This flag shows information about the program and its author.
+

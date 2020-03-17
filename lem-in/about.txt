@@ -1,0 +1,13 @@
+This project is meant to make you code a digital version of an ant farm.
+Upon successfully finding the quickest path, lem-in will display the content
+of the file passed as argument and each move the ants make from room to room.
+
+
+This program code was written by Andrey Vishnyakov (ndee-v),
+who was at that time a student of the first stream of Alem school.
+
+        website:        https://alem.school/
+
+Andrey's github https://github.com/ndee-v  & git  https://git.01.alem.school/ndee-v
+
+17 march 2020.
